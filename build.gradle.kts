@@ -68,5 +68,5 @@ dependencies {
     implementation("ch.qos.logback:logback-classic:1.2.3")
     implementation("ch.qos.logback:logback-core:1.2.3")
 
-//    implementation(":kserialpooler-1.0")
+    implementation(":kserialpooler-1.0")
 }
